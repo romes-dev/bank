@@ -1,0 +1,12 @@
+<dependencies>
+    <dependency>
+        <groupId>org.hibernate.ogm</groupId>
+        <artifactId>hibernate-ogm-mongodb</artifactId>
+        <version>5.4.1.Final</version>
+    </dependency>
+    <dependency>
+        <groupId>org.mongodb</groupId>
+        <artifactId>mongodb-driver</artifactId>
+        <version>3.12.7</version>
+    </dependency>
+</dependencies>
